@@ -1,0 +1,1 @@
+this folder stores images and styles for the homepage
